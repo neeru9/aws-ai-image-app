@@ -71,7 +71,7 @@ AI-Image-Studio/
 **1. Clone the Repository** </br>
 
 bash </br>
-git clone https://github.com/yourusername/ai-image-studio.  </br>
+git clone https://github.com/neeru9/aws-ai-image-app  </br>
 cd ai-image-studio </br>
 
 **2. Frontend Setup (React)** </br>
