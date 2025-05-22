@@ -116,7 +116,7 @@ Lambda stores metadata (prompt, image URL, timestamp) in DynamoDB. </br>
 
 Gallery retrieves and displays stored images based on prompt queries. </br>
 
-**🔐 Security**** </br>
+**🔐 Security** </br>
 
 Use IAM roles with least privilege for EC2, Lambda, and S3. </br>
 
